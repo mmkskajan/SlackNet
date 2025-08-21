@@ -6,6 +6,7 @@
 	<AssemblyOriginatorKeyFile>SlackNetKey.snk</AssemblyOriginatorKeyFile>  <!--D:\git\Personal\SlackNet\SlackNet\SlackNetKey.snk-->
 	<Authors>Kajandan Seevaratnam</Authors>
     <Description>A comprehensive Slack API client for .NET</Description>
+	<PackageId>SlackNet.StrongNamed</PackageId>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/mmkskajan/SlackNet</PackageProjectUrl>
     <RepositoryUrl>https://github.com/mmkskajan/SlackNet.git</RepositoryUrl>
