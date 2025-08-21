@@ -4,16 +4,16 @@
     <TargetFrameworks>netstandard2.0;net8.0</TargetFrameworks>
 	<SignAssembly>true</SignAssembly>
 	<AssemblyOriginatorKeyFile>SlackNetKey.snk</AssemblyOriginatorKeyFile>  <!--D:\git\Personal\SlackNet\SlackNet\SlackNetKey.snk-->
-	  <Authors>Simon Oxtoby</Authors>
+	<Authors>Kajandan Seevaratnam</Authors>
     <Description>A comprehensive Slack API client for .NET</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/soxtoby/SlackNet</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/soxtoby/SlackNet.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/mmkskajan/SlackNet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mmkskajan/SlackNet.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>Slack API RTM Events</PackageTags>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
     <NoWarn>0618;1591;1701;1702;1812</NoWarn>
-    <LangVersion>13</LangVersion>
+	<Version>0.17.3.1-StrongNamed</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
