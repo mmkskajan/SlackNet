@@ -1,9 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
 	<SignAssembly>true</SignAssembly>
-	<PublicSign>true</PublicSign>
+	<AssemblyOriginatorKeyFile>..\SlackNet\SlackNetKey.snk</AssemblyOriginatorKeyFile>
     <IsPackable>false</IsPackable>
     <LangVersion>12</LangVersion>
   </PropertyGroup>

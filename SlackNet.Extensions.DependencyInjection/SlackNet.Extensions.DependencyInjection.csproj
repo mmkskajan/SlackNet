@@ -1,9 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>netstandard2.0</TargetFramework>
-		<SignAssembly>true</SignAssembly>
-		<PublicSign>true</PublicSign>
+        <TargetFramework>netstandard2.0</TargetFramework>		
         <Authors>Simon Oxtoby</Authors>
         <Description>Microsoft.Extensions.DependencyInjection integration for configuring SlackNet services</Description>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>

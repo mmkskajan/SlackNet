@@ -1,9 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
-	<SignAssembly>true</SignAssembly>
-	<PublicSign>true</PublicSign>
+    <TargetFramework>netstandard2.0</TargetFramework>	
     <Authors>Simon Oxtoby</Authors>
     <Description>Easy-to-use API for writing Slack bots</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>

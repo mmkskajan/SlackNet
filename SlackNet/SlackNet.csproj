@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net8.0</TargetFrameworks>
 	<SignAssembly>true</SignAssembly>
-	<PublicSign>true</PublicSign>
-    <Authors>Simon Oxtoby</Authors>
+	<AssemblyOriginatorKeyFile>SlackNetKey.snk</AssemblyOriginatorKeyFile>  <!--D:\git\Personal\SlackNet\SlackNet\SlackNetKey.snk-->
+	  <Authors>Simon Oxtoby</Authors>
     <Description>A comprehensive Slack API client for .NET</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/soxtoby/SlackNet</PackageProjectUrl>
